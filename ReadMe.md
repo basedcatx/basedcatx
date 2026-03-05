@@ -1,4 +1,4 @@
-<p align=center>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,tensorflow,pytorch,threejs,godot,bun,nodejs,mysql,postgres,mongodb,maven,kotlin,java&perline=10" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
   </a>
