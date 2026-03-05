@@ -4,13 +4,14 @@ I tryhard every single time, I think it's a skill issue at the point. I do build
 
 - ⛰️ **Location:** Buea, Cameroon (Yes, the mountains are real).
 
-### My "I promise it works on my machine" Stack
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,love2d,bun,nodejs,tanstack,ffmpeg,asm,rn,android,kotlin,java" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
   </a>
 </p>
 
+## Some stuff I built/building
+[basedtunnel(https://github.com/basedcatx/private-project): An android VPN tunneling client that routes device traffic through encrypted SSH, UDP (Hysteria), and DNSTT tunnels to bypass network restrictions, with support for importable encrypted configuration files and multiple tunnel types including SSL, WebSocket, over SSH (plans on v2ray, trust) and payload injection.
 
 *"Simplicity is the ultimate sophistication." — Leonardo (and also me, usually after 4 hours of debugging).*
 
