@@ -11,11 +11,10 @@ I tryhard every single time, I think it's a skill issue at the point. I do build
   </a>
 </p>
 
----
+
 *"Simplicity is the ultimate sophistication." — Leonardo (and also me, usually after 4 hours of debugging).*
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=fsenzol&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=fsenzol&icon=10&color=0)](https://visitcount.itsvg.in)
