@@ -7,14 +7,14 @@ I tryhard every single time, I think it's a skill issue at the point. I do build
 ### 🛠️ My "I promise it works on my machine" Stack
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,python,c,lua,love2d,bun,nodejs,tanstack,ffmpeg,asm" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,love2d,bun,nodejs,tanstack,ffmpeg,asm,rn,android,kotlin,java" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
   </a>
 </p>
 
 ---
 *"Simplicity is the ultimate sophistication." — Leonardo (and also me, usually after 4 hours of debugging).*
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=fsenzol&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
