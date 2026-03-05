@@ -11,7 +11,7 @@ I tryhard every single time, I think it's a skill issue at the point. I do build
 </p>
 
 ## Some stuff I built/building
-- (basedtunnel)[https://github.com/basedcatx/private-project]: An android VPN tunneling client that routes device traffic through encrypted SSH, UDP (Hysteria), and DNSTT tunnels to bypass network restrictions, with support for importable encrypted configuration files and multiple tunnel types including SSL, WebSocket, over SSH (plans on v2ray, trust) and payload injection.
+- [https://github.com/basedcatx/private-project](basedtunnel): An android VPN tunneling client that routes device traffic through encrypted SSH, UDP (Hysteria), and DNSTT tunnels to bypass network restrictions, with support for importable encrypted configuration files and multiple tunnel types including SSL, WebSocket, over SSH (plans on v2ray, trust) and payload injection.
 
 *"Simplicity is the ultimate sophistication." — Leonardo (and also me, usually after 4 hours of debugging).*
 
