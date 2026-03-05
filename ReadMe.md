@@ -17,6 +17,9 @@ I tryhard every single time, I think it's a skill issue at the point. I do build
 - [Netboltz](https://github.com/basedcatx/private-repo): An Android application that accelerated network throughput by routing traffic through a local VPN tunnel, leveraging QUIC's UDP-based transport to eliminate TCP head-of-line blocking and applying, connection multiple techniques to parallelize data transfer across multiple streams. Reduced page load times by ~40% on 3G networks by efficiently using up the all the bandwidth. Had to keep it private due to some factors.
 - [XHTTP/XHTTP-revised](https://github.com/basedcatx/xhttp): An encrypted proxy tunneling system in C that routes TCP traffic through a custom binary protocol with AES-256-GCM encryption, zlib compression, and HTTP-header camouflage to evade traffic inspection. Implemented a multi-threaded, non-blocking I/O architecture using POSIX sockets and select() for bidirectional data forwarding between a local client and remote server. Designed a 4-stage data transformation pipeline handling serialization, compression, authenticated encryption, and protocol framing.
 
+That's a lot of yapping I have a lot going on right now, a lot more scheduled. Being a polymath is such a perk. 
+Just keep spying on here, pretty cool stuff dropping soon.
+
 *"Simplicity is the ultimate sophistication." — Leonardo (and also me, usually after 4 hours of debugging).*
 
 
