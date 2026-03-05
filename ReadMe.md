@@ -1,6 +1,6 @@
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,tensorflow,godot,bun,nodejs,tanstack,ffmpeg,asm,rn,android,kotlin,java" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,tensorflow,pytorch,threejs,godot,bun,nodejs,mysql,postgress,mongodb,maven,kotlin,java" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
   </a>
 </p>
 
