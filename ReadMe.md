@@ -1,14 +1,15 @@
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,love2d,bun,nodejs,tanstack,ffmpeg,asm,rn,android,kotlin,java" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
+  </a>
+</p>
+
 I code and touch grass (mostly to check if the grass is also bugged).
 
 I tryhard every single time, I think it's a skill issue at the point. I do build cool stuff (still building but you get the point). I love chess, music and gaming as well, nah forget about my elo. 
 
 - ⛰️ **Location:** Buea, Cameroon (Yes, the mountains are real).
 
-<p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,love2d,bun,nodejs,tanstack,ffmpeg,asm,rn,android,kotlin,java" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
-  </a>
-</p>
 
 ## Some stuff I built/building
 - [basedtunnel](https://github.com/basedcatx/private-repo): An android VPN tunneling client that routes device traffic through encrypted SSH, UDP (Hysteria), and DNSTT tunnels to bypass network restrictions, with support for importable encrypted configuration files and multiple tunnel types including SSL, WebSocket, over SSH (plans on v2ray, trust) and payload injection.
