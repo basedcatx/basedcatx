@@ -1,14 +1,8 @@
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,zig,ts,py,react,neovim,linux,godot,aws,python,c,lua,tensorflow,pytorch,threejs,godot,bun,nodejs,mysql,postgres,mongodb,maven,kotlin,java&perline=10" alt="c,cpp,rust,zig,go,ts,py,react,neovim,linux,godot,aws,kotlin,java,android,reactnative" />
-  </a>
-</p>
+I code and touch grass, unlike some people... No comments.
 
-I code and touch grass (mostly to check if the grass is also bugged).
+I am aware of my massive skill issue duh... but I mean it's not that bad to write bad software nowadays anyways, so well!!? BUT I do build cool stuff (still building but you get the point.... xd). I love chess, music and gaming as well, nah! forget about my elo. 
 
-I tryhard every single time, I think it's a skill issue at the point. I do build cool stuff (still building but you get the point). I love chess, music and gaming as well, nah forget about my elo. 
-
-- ⛰️ **Location:** Buea, Cameroon (Yes, the mountains are real).
+- Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
 
 
 ## Some stuff I built/building
@@ -20,7 +14,8 @@ I tryhard every single time, I think it's a skill issue at the point. I do build
 That's a lot of yapping I have a lot going on right now, a lot more scheduled. Being a polymath is such a perk. 
 Just keep spying on here, pretty cool stuff dropping soon.
 
-*"Simplicity is the ultimate sophistication." — Leonardo (and also me, usually after 4 hours of debugging).*
+> "Simplicity is the ultimate sophistication." 
+— Leonardo (and also me, usually after 4 hours of debugging).
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=fsenzol&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
