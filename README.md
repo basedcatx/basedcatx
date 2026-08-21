@@ -9,7 +9,6 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
 
 <div align="center">
   <h2>Connect</h2>
-  <hr>
   <p>
     <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
