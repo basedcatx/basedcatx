@@ -49,7 +49,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/rockup.jpeg" width="300" alt="Graphic" />
+      <img src="./assets/rockup.jpeg" width="400" alt="Graphic" />
     </td>
   </tr>
 </table>
