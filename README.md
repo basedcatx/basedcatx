@@ -48,6 +48,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 
 Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
 
+</br>
 
 <div align="center">
   <h2>Let's Talk</h2>
