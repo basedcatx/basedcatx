@@ -72,3 +72,8 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
 ![](https://github-contributor-stats.vercel.app/api?username=fsenzol&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=fsenzol&icon=10&color=0)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basedcatx&theme=github_dark&bg_color=000000&color=d3a268&line=d3a268&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
