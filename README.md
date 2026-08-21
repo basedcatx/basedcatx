@@ -10,7 +10,6 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
 <div align="center">
   <h2>Connect</h2>
   <p>
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="mailto:basedcatx@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/%F0%9F%93%A5_RESUME-000000?style=for-the-badge" /></a>
   </p>
