@@ -3,6 +3,9 @@
 
 <table border="0">
   <tr>
+     <td width="35%" align="center" valign="top">
+      <img src="./assets/polymath.jpeg" width="100%" alt="Atlas holding globe" />
+    </td>
     <td width="65%" valign="top">
       <p>
 I code and touch grass, unlike some people... No comments.
@@ -11,9 +14,6 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
 
 - Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
       </p>
-    </td>
-    <td width="35%" align="center" valign="top">
-      <img src="./assets/polymath.jpg" width="100%" alt="Atlas holding globe" />
     </td>
   </tr>
 </table>
