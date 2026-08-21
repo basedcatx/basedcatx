@@ -4,7 +4,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="./assets/polymath.jpeg" width="100%" alt="Atlas holding globe" />
+<img src="./assets/polymath.jpeg" width="180" alt="Atlas holding globe" />
 
 I code and touch grass, unlike some people... No comments.
         
