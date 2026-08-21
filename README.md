@@ -69,6 +69,13 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
 — Leonardo
 
 
+> "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."
+— Albert Camus
+
+> "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."
+— Archimedes
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=fsenzol&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=fsenzol&icon=10&color=0)](https://visitcount.itsvg.in)
