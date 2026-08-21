@@ -23,7 +23,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 </br>
 </br>
 
-<img src="./assets/rockup.jpeg" align="right" width="220" alt="Graphic" />
+<img src="./assets/rockup.jpeg" align="right" width="400" alt="Graphic" />
 
 ### Some stuff I built / building
 
