@@ -1,7 +1,7 @@
 <img src="./assets/githubprof.png" width="2000" alt="banner" />
 
 
-<table border="0">
+<table>
   <tr>
      <td width="35%" align="center" valign="top">
       <img src="./assets/polymath.jpeg" width="100%" alt="Atlas holding globe" />
@@ -17,15 +17,6 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
     </td>
   </tr>
 </table>
-
-
-  <span>
-    <img src="./assets/polymath.jpeg" width="140" alt="banner" />
-    <p>
-      
-
-    </p>
-  </span>
 
 
 <div align="center">
