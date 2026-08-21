@@ -48,6 +48,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 
 Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
 
+
 <div align="center">
   <h2>Let's Talk</h2>
   <p>
@@ -57,7 +58,7 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
 
 
 > "Simplicity is the ultimate sophistication." 
-— Leonardo (and also me, usually after 4 hours of debugging).
+— Leonardo
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=fsenzol&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
