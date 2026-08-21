@@ -7,6 +7,18 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
 - Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
 
 
+<div align="center">
+  <h2>Connect</h2>
+  <hr>
+  <p>
+    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/%F0%9F%93%A5_RESUME-000000?style=for-the-badge" /></a>
+  </p>
+</div>
+
+
 ## Some stuff I built/building
 - [Basedtunnel](https://github.com/basedcatx/private-repo): An android VPN tunneling client that routes device traffic through encrypted SSH, UDP (Hysteria), and DNSTT tunnels to bypass network restrictions, with support for importable encrypted configuration files and multiple tunnel types including SSL, WebSocket, over SSH (plans on v2ray, trust) and payload injection.
 - [NexaVM](https://nexavm.vercel.app) (discontinued): A high-performance virtualization and emulation platform built upon the open-source QEMU framework. By leveraging Intel’s nested VT (Virtualization Technology) and integrating seamlessly with Hyper-V, it enables efficient, multi-layered nested virtualization across various architectures including x86, ARM, and PowerPC. Let's just say, it died a natural death.
