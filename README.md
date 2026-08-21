@@ -1,14 +1,28 @@
 <img src="./assets/githubprof.png" width="2000" alt="banner" />
 
+
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+I code and touch grass, unlike some people... No comments.
+        
+I am aware of my massive skill issue duh... but I mean it's not that bad to write bad software nowadays anyways, so well!!? BUT I do build cool stuff (still building but you get the point.... xd). I love chess, music and gaming as well, nah! forget about my elo. 
+
+- Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="./assets/polymath.jpg" width="100%" alt="Atlas holding globe" />
+    </td>
+  </tr>
+</table>
+
+
   <span>
     <img src="./assets/polymath.jpeg" width="140" alt="banner" />
     <p>
       
-I code and touch grass, unlike some people... No comments.
-
-I am aware of my massive skill issue duh... but I mean it's not that bad to write bad software nowadays anyways, so well!!? BUT I do build cool stuff (still building but you get the point.... xd). I love chess, music and gaming as well, nah! forget about my elo. 
-
-- Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
 
     </p>
   </span>
