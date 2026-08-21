@@ -48,7 +48,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 
 Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
 
-</br>
+</br></br>
 
 <div align="center">
   <h2>Let's Talk</h2>
@@ -57,7 +57,7 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
   </p>
 </div>
 
-
+</br>></br>
 > "Simplicity is the ultimate sophistication." 
 — Leonardo
 
