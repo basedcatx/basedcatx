@@ -1,3 +1,5 @@
+<img src="./assets/githubprof.png" width="140" alt="banner" />
+
 I code and touch grass, unlike some people... No comments.
 
 I am aware of my massive skill issue duh... but I mean it's not that bad to write bad software nowadays anyways, so well!!? BUT I do build cool stuff (still building but you get the point.... xd). I love chess, music and gaming as well, nah! forget about my elo. 
