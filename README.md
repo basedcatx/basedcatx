@@ -23,32 +23,23 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 </br>
 </br>
 
-<table border="0">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>Some stuff I built / building</h3>
-      <p>
-        <a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/BASETUNNEL-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        Android VPN client routing traffic through SSH, Hysteria, and DNSTT to bypass network blocks.
-      </p>
-      <p>
-        <a href="https://nexavm.vercel.app/"><img src="https://img.shields.io/badge/NEXAVM_(RIP)-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        QEMU-based nested virtualization tool. Died a natural death.
-      </p>
-      <p>
-        <a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/NETBOLTZ-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        Android local VPN using QUIC to kill TCP head-of-line blocking and boost 3G throughput.
-      </p>
-      <p>
-        <a href="https://github.com/basedcatx/xhttp"><img src="https://img.shields.io/badge/XHTTP-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        Encrypted C proxy tunnel using AES-256-GCM and HTTP header camouflage to dodge DPI.
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/rockup.jpeg" width="600" alt="Graphic" />
-    </td>
-  </tr>
-</table>
+<img src="./assets/rockup.jpeg" align="right" width="220" alt="Graphic" />
+
+### Some stuff I built / building
+
+<a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/BASETUNNEL-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+Android VPN client routing traffic through SSH, Hysteria, and DNSTT to bypass network blocks.
+
+<a href="https://nexavm.vercel.app/"><img src="https://img.shields.io/badge/NEXAVM_(RIP)-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+QEMU-based nested virtualization tool. Died a natural death.
+
+<a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/NETBOLTZ-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+Android local VPN using QUIC to kill TCP head-of-line blocking and boost 3G throughput.
+
+<a href="https://github.com/basedcatx/xhttp"><img src="https://img.shields.io/badge/XHTTP-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+Encrypted C proxy tunnel using AES-256-GCM and HTTP header camouflage to dodge DPI.
+
+<br clear="right" />
 
 Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
 
