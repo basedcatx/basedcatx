@@ -19,14 +19,6 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 <br clear="left" />
 
 
-<div align="center">
-  <h2>Let's Talk</h2>
-  <p>
-    <a href="mailto:basedcatx@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
-
-
 <table border="0">
   <tr>
     <td width="70%" valign="top">
@@ -54,7 +46,14 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
   </tr>
 </table>
 
-> Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
+Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
+
+<div align="center">
+  <h2>Let's Talk</h2>
+  <p>
+    <a href="mailto:basedcatx@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 
 > "Simplicity is the ultimate sophistication." 
