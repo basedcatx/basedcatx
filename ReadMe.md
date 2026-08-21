@@ -1,4 +1,4 @@
-<img src="./assets/githubprof.png" width="140" alt="banner" />
+<img src="./assets/githubprof.png" width="2000" alt="banner" />
 
 I code and touch grass, unlike some people... No comments.
 
