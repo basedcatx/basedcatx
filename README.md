@@ -83,3 +83,7 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
 <div align="center">
   <img src="https://raw.githubusercontent.com/basedcatx/basedcatx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-date?username=basedcatx&theme=2077" width="100%" alt="Commit History" />
+</div>
