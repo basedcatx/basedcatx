@@ -8,7 +8,7 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
 
 
 <div align="center">
-  <h2>Connect</h2>
+  <h2>Let's Talk</h2>
   <p>
     <a href="mailto:basedcatx@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
