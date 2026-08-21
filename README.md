@@ -1,7 +1,7 @@
 <img src="./assets/githubprof.png" width="2000" alt="banner" />
 
 
-<table>
+<table border="0">
   <tr>
      <td width="35%" align="center" valign="top">
       <img src="./assets/polymath.jpeg" width="100%" alt="Atlas holding globe" />
