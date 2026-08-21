@@ -78,7 +78,3 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/basedcatx/basedcatx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</div>
-
