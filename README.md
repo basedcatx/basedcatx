@@ -4,13 +4,13 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="./assets/polymath.jpeg" width="180" alt="Atlas holding globe" align="left"/>
+<img src="./assets/polymath.jpeg" width="200" alt="Atlas holding globe" align="left"/>
 
 I code and touch grass, unlike some people... No comments.
         
 I am aware of my massive skill issue duh... but I mean it's not that bad to write bad software nowadays anyways, so well!!? BUT I do build cool stuff (still building but you get the point.... xd). I love chess, music and gaming as well, nah! forget about my elo. 
 
-- Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
+Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
 
 <br clear="left" />
 
