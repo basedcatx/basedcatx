@@ -33,6 +33,35 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 - [Netboltz](https://github.com/basedcatx/private-repo): An Android application that accelerated network throughput by routing traffic through a local VPN tunnel, leveraging QUIC's UDP-based transport to eliminate TCP head-of-line blocking and applying, connection multiple techniques to parallelize data transfer across multiple streams. Reduced page load times by ~40% on 3G networks by efficiently using up the all the bandwidth. Had to keep it private due to some factors.
 - [XHTTP/XHTTP-revised](https://github.com/basedcatx/xhttp): An encrypted proxy tunneling system in C that routes TCP traffic through a custom binary protocol with AES-256-GCM encryption, zlib compression, and HTTP-header camouflage to evade traffic inspection. Implemented a multi-threaded, non-blocking I/O architecture using POSIX sockets and select() for bidirectional data forwarding between a local client and remote server. Designed a 4-stage data transformation pipeline handling serialization, compression, authenticated encryption, and protocol framing.
 
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>Some stuff I built / building</h3>
+      <p>
+        <a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/BASETUNNEL-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        Android VPN client routing traffic through SSH, Hysteria, and DNSTT to bypass network blocks.
+      </p>
+      <p>
+        <a href="https://nexavm.vercel.app/"><img src="https://img.shields.io/badge/NEXAVM_(RIP)-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        QEMU-based nested virtualization tool. Died a natural death.
+      </p>
+      <p>
+        <a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/NETBOLTZ-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        Android local VPN using QUIC to kill TCP head-of-line blocking and boost 3G throughput.
+      </p>
+      <p>
+        <a href="https://github.com/basedcatx/xhttp"><img src="https://img.shields.io/badge/XHTTP-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        Encrypted C proxy tunnel using AES-256-GCM and HTTP header camouflage to dodge DPI.
+      </p>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/your-image.png" width="160" alt="Graphic" />
+    </td>
+  </tr>
+</table>
+
+> Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
+
 That's a lot of yapping I have a lot going on right now, a lot more scheduled. Being a polymath is such a perk. 
 Just keep spying on here, pretty cool stuff dropping soon.
 
