@@ -1,7 +1,7 @@
 <img src="./assets/githubprof.png" width="2000" alt="banner" />
 
   <span>
-    <img src="./assets/githubprof.png" width="2000" alt="banner" />
+    <img src="./assets/polymath.png" width="140" alt="banner" />
     <p>
       
 I code and touch grass, unlike some people... No comments.
