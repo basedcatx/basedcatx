@@ -6,6 +6,10 @@
 
 <img src="./assets/polymath.jpeg" width="400" alt="Atlas holding globe" align="left"/>
 
+Hey, I'm Faith.
+
+I'm a CS student, and honestly, I spend most of my time just learning and tweaking with systems. I like getting into the nitty gritties and, messing around. I am a huge fan of Fabrice Bellard, so I am gradually carrying his fire of building tools from scratch to figure out how they actually work.
+
 I code and touch grass, unlike some people... No comments.
         
 I am aware of my massive skill issue duh... but I mean it's not that bad to write bad software nowadays anyways, so well!!? BUT I do build cool stuff (still building but you get the point.... xd). I love chess, music and gaming as well, nah! forget about my elo. 
