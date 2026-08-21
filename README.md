@@ -1,5 +1,8 @@
 <img src="./assets/githubprof.png" width="2000" alt="banner" />
 
+</br>
+</br>
+
 <div align="center">
   <h2>Know About Me</h2>
 </div>
@@ -17,7 +20,8 @@ I am aware of my massive skill issue duh... but I mean it's not that bad to writ
 Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk less touch mountain grass. I do not mind you visiting I am very welly welcoming.
 
 <br clear="left" />
-
+</br>
+</br>
 
 <table border="0">
   <tr>
@@ -48,7 +52,8 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 
 Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping soon.
 
-</br></br>
+</br>
+</br>
 
 <div align="center">
   <h2>Let's Talk</h2>
@@ -57,7 +62,9 @@ Got a lot more scheduled. Just keep spying on here, pretty cool stuff dropping s
   </p>
 </div>
 
-</br>></br>
+</br>
+</br>
+
 > "Simplicity is the ultimate sophistication." 
 — Leonardo
 
