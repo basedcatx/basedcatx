@@ -23,7 +23,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 </br>
 </br>
 
-### Some stuff I built / building
+### Some stuff I built / X
 
 <a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/BASEDTUNNEL-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 Android VPN client routing traffic through SSH, Hysteria, and DNSTT to bypass network blocks.
