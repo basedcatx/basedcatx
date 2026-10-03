@@ -25,7 +25,7 @@ Location: Buea, Cameroon, yes you! I know you haven't seen a mountain yet, talk 
 
 ### Some stuff I built / building
 
-<a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/BASETUNNEL-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/basedcatx/private-repo"><img src="https://img.shields.io/badge/BASEDTUNNEL-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 Android VPN client routing traffic through SSH, Hysteria, and DNSTT to bypass network blocks.
 
 <a href="https://nexavm.vercel.app/"><img src="https://img.shields.io/badge/NEXAVM_(RIP)-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
